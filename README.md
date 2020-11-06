@@ -2,7 +2,8 @@
 # This website was created for an IT studio. People can use it to find out more about it. It is very easy to use and available to everyone.
 ## In my work I used:
 ```<link rel="stylesheet" href="./jquery.fancybox.min.css">
-   <link rel="stylesheet" href="./style.css">
+```
+```<link rel="stylesheet" href="./style.css">
 ```
 ### As well as HTML5
 ## Hope you like it!
